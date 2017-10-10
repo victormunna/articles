@@ -1,7 +1,7 @@
 package org.programming.mitra;
 
 /**
- * @author Naresh Joshi
+ * @author Munna Chauhan
  */
 public enum Action {
 
